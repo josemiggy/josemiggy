@@ -3,16 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josemiggy&label=Profile%20views&color=0e75b6&style=flat" alt="josemiggy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josemiggy" alt="josemiggy" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 💬 Ask me about **NextJS | Tailwind CSS | Ionic | Angular | NodeJS**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ghPKi1Nw-LcF0W0uotCIf3-p-zmyJsc9/view](https://drive.google.com/file/d/1ghPKi1Nw-LcF0W0uotCIf3-p-zmyJsc9/view)
-
-- ⚡ Fun fact **I pick things up quickly**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.behance.net/josemiggy_designer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/josemiggy_designer" height="30" width="40" /></a>
